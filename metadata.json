@@ -1,0 +1,6 @@
+{
+  "name": "Uzhavan Direct - Direct Farmer Pre-Booking",
+  "description": "Direct institutional pre-booking platform for smallholder farmers with bilingual Tamil/English support, live split reconciliation, and digital credit building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
